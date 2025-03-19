@@ -5,8 +5,6 @@ printf("=====================================\n\n");
 # Loading packages
 with(DifferentialAlgebra):
 with(DifferentialAlgebra[Tools]):
-
-
 with(ListTools):
 with(ArrayTools):
 with(VectorCalculus):
